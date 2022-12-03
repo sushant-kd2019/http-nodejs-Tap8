@@ -1,12 +1,12 @@
 {
-  "name": "GKP-Push",
+  "name": "gkp",
   "version": "1.0.0",
   "main": "server.js",
   "author": "Sushant",
   "license": "MIT",
   "scripts": {
     "start": "node server.js"
-  }
+  },
   "dependencies": {
     "@pushprotocol/restapi": "^0.2.2",
     "cors": "^2.8.5",
